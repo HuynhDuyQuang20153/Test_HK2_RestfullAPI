@@ -1,0 +1,26 @@
+{
+    "product 1": {
+        "productID": 1,
+        "productName": "Mi tom Hao Hao",
+        "company": "Acecook",
+        "price": "4000"
+    },
+    "product 2": {
+        "productID": 2,
+        "productName": "Mi Omachi",
+        "company": "Omachi",
+        "price": "8000"
+    },
+    "product 3": {
+        "productID": 3,
+        "productName": "Hu Tieu Gio Heo",
+        "company": "Nam Vang",
+        "price": "7000"
+    },
+    "product 4": {
+        "productID": 4,
+        "productName": "Bun Rieu Cua",
+        "company": "Nam A",
+        "price": "9000"
+    }
+}
